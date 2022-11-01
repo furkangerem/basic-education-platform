@@ -4,6 +4,6 @@
 📍 Çoklu loglama yapısını simule ediniz.
 
 Aşağıdaki iş kurallarıyla ilerleyiniz.
-
+ 
 🌟 Kurs adı ve kategori adı tekrar edemez.
 🌟 Bir kursun fiyatı 0'dan az olamaz.
